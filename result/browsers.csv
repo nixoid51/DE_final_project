@@ -1,0 +1,181 @@
+Device,Browser,Count_Browser,row_number
+Acer,Chrome,223,1
+Acer,Android,33,2
+Acer,Chrome Mobile WebView,3,3
+Acer,Google,1,4
+Alcatel,Android,568,1
+Alcatel,Chrome Mobile,279,2
+Alcatel,Chrome,126,3
+Alcatel,Google,2,4
+Amazon,Amazon Silk,4,1
+Aoson,Chrome Mobile WebView,24,1
+Aoson,Android,3,2
+Apple,Mobile Safari,441774,1
+Apple,Chrome Mobile iOS,73520,2
+Apple,MobileSafari,69822,3
+Apple,Google,43072,4
+Apple,Safari,38556,5
+Archos,Android,66,1
+Asus,Chrome Mobile,20703,1
+Asus,Chrome,3319,2
+Asus,Chrome Mobile WebView,3134,3
+Asus,Android,2204,4
+Asus,LINE,148,5
+BlackBerry,BlackBerry WebKit,545,1
+Blu,Android,1,1
+Coolpad,Chrome Mobile WebView,28,1
+Coolpad,Android,3,2
+Coolpad,Chrome Mobile,1,3
+Cubot,Chrome Mobile,80,1
+Fly,Chrome Mobile,117,1
+Fly,Android,35,2
+Fly,Chrome Mobile WebView,11,3
+Generic,Firefox Mobile,162622,1
+Generic,Opera Mini,11679,2
+Generic,Chrome Mobile,1103,3
+Generic,Chrome Mobile WebView,414,4
+Generic,Android,291,5
+Generic_Android,Chrome Mobile,114195,1
+Generic_Android,Chrome Mobile WebView,15970,2
+Generic_Android,Android,9311,3
+Generic_Android,Opera Mobile,562,4
+Generic_Android,UC Browser,287,5
+Generic_Android_Tablet,Chrome,45216,1
+Generic_Android_Tablet,Chrome Mobile WebView,2291,2
+Generic_Android_Tablet,Samsung Internet,236,3
+Generic_Android_Tablet,Opera,73,4
+Generic_Android_Tablet,Google,47,5
+Gfive,Android,29,1
+Gigabyte,Chrome Mobile,64,1
+Gigabyte,Android,4,2
+Google,Chrome Mobile,228,1
+Google,Chrome Mobile WebView,172,2
+Google,Android,8,3
+HP,Chrome,119,1
+HP,Android,95,2
+HTC,Chrome Mobile,53944,1
+HTC,Android,9758,2
+HTC,Chrome Mobile WebView,9059,3
+HTC,Safari,303,4
+HTC,Opera Mobile,295,5
+Haipad,Android,2,1
+Huawei,Chrome Mobile,377707,1
+Huawei,Android,123574,2
+Huawei,Chrome Mobile WebView,38301,3
+Huawei,Opera Mobile,4571,4
+Huawei,Chrome,3590,5
+Hyundai,Chrome Mobile WebView,98,1
+Hyundai,Chrome,53,2
+Hyundai,Chrome Mobile,36,3
+Hyundai,Android,1,4
+Infinix,Chrome Mobile,53,1
+Intex,Android,2,1
+Intex,Google,1,2
+Itel,Chrome Mobile WebView,21,1
+Itel,Chrome Mobile,1,2
+Jiayu,Android,9,1
+Jiayu,Google,2,2
+Jiayu,Chrome Mobile,1,3
+LG,Chrome Mobile,140941,1
+LG,Chrome Mobile WebView,16319,2
+LG,Android,13884,3
+LG,Opera Mobile,825,4
+LG,Chrome,370,5
+Lava,Google,2,1
+Lenovo,Chrome,39927,1
+Lenovo,Android,8112,2
+Lenovo,Chrome Mobile,6451,3
+Lenovo,Chrome Mobile WebView,3344,4
+Lenovo,UC Browser,359,5
+Meizu,Chrome Mobile,2,1
+Micromax,Chrome,4089,1
+Micromax,Android,531,2
+Micromax,Chrome Mobile WebView,342,3
+Micromax,Chrome Mobile,27,4
+Micromax,Google,23,5
+Microsoft,IE Mobile,1302,1
+Motorola,Chrome Mobile,2663,1
+Motorola,Android,360,2
+Motorola,Chrome Mobile WebView,72,3
+Motorola,Opera Mobile,58,4
+Motorola,Google,16,5
+Nokia,Chrome Mobile,27955,1
+Nokia,Edge Mobile,4699,2
+Nokia,Android,1993,3
+Nokia,IE Mobile,1441,4
+Nokia,Edge,1391,5
+Odys,Chrome Mobile,25,1
+OnePlus,Chrome Mobile,1034,1
+OnePlus,Android,130,2
+OnePlus,Opera Mobile,38,3
+OnePlus,Chrome Mobile WebView,4,4
+OnePlus,Google,2,5
+Oppo,Chrome Mobile,236,1
+Oppo,Opera Mobile,72,2
+Oppo,UC Browser,21,3
+Oppo,Android,19,4
+Oppo,Google,2,5
+POV,Chrome Mobile WebView,1,1
+Pantech,Android,1,1
+Prestigio,Android,451,1
+Prestigio,Chrome,111,2
+Prestigio,Chrome Mobile,2,3
+Prestigio,Opera Mobile,1,4
+Qmobile,Chrome Mobile WebView,48,1
+Qmobile,Android,5,2
+RCA,Chrome,35,1
+Samsung,Chrome Mobile,905115,1
+Samsung,Samsung Internet,656154,2
+Samsung,Android,171658,3
+Samsung,Chrome Mobile WebView,65578,4
+Samsung,Chrome,25981,5
+Sony,Chrome Mobile,67252,1
+Sony,Android,7842,2
+Sony,Chrome,1090,3
+Sony,Chrome Mobile WebView,970,4
+Sony,Opera Mobile,634,5
+SonyEricsson,Chrome Mobile,9124,1
+SonyEricsson,Android,5066,2
+SonyEricsson,Chrome Mobile WebView,315,3
+SonyEricsson,UC Browser,243,4
+SonyEricsson,Opera Mobile,28,5
+Spider,Googlebot,642679,1
+Spider,bingbot,200700,2
+Spider,Googlebot-Image,159118,3
+Spider,AhrefsBot,57178,4
+Spider,BingPreview,14154,5
+Tecno,Chrome Mobile,1797,1
+Tecno,Android,287,2
+Tecno,Chrome Mobile WebView,170,3
+Tecno,Google,8,4
+Trekstor,Chrome Mobile WebView,43,1
+Trekstor,Android,1,2
+Umeox,Chrome Mobile WebView,174,1
+Umeox,Android,81,2
+Umeox,Google,3,3
+Umeox,Chrome Mobile,1,4
+Wiko,Google,2,1
+Wiko,Android,2,2
+Wiko,Chrome Mobile,1,3
+XiaoMi,Chrome Mobile,39515,1
+XiaoMi,MiuiBrowser,7925,2
+XiaoMi,Android,5557,3
+XiaoMi,UC Browser,547,4
+XiaoMi,Chrome Mobile WebView,324,5
+ZTE,Chrome Mobile,1607,1
+ZTE,Chrome Mobile WebView,510,2
+ZTE,Android,162,3
+ZTE,Yandex Browser,65,4
+ZTE,Google,2,5
+Zopo,Chrome Mobile,51,1
+Zopo,Android,8,2
+Zopo,Chrome Mobile WebView,2,3
+ionik,Google,2,1
+other,Chrome,2763582,1
+other,Firefox,2092311,2
+other,IE,181702,3
+other,Opera,71512,4
+other,Edge,51896,5
+vivo,Chrome Mobile,147,1
+vivo,Android,30,2
+vivo,Chrome Mobile WebView,2,3
